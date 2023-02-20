@@ -1,0 +1,53 @@
+body {
+        background-image: url('https://cdn.pixabay.com/photo/2018/08/15/13/10/galaxy-3608029_960_720.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+h1 {
+    font-size: 500% ;color:rgb(9, 81, 236)
+    ; margin: 50px; text-align: center; display: block;
+}
+h3 {
+font-size: 400; font-style:rgb(2, 199, 84); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;
+}
+
+.importante {
+    font-weight: bold;
+    border: 16px solid rgb(247, 248, 247)
+}
+h3 {
+    font-size: 500%; color: rgb(85, 88, 238); text-align: center; font-family: 'Times New Roman', Times, serif;
+}
+table {
+    color: white;
+}
+#diferente {   
+color: rgb(192, 0, 0); font-size: 300%;
+}
+p { 
+    font-family: Arial, Helvetica, sans-serif; color:white; text-align: center;
+}
+em {
+    font-size: 100%; background-color: #df0a0a;
+}
+strong {
+    font-size: 150%;
+}
+ol {
+    color: rgb(255, 255, 255); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul { font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    color: #ffffff;
+}
+footer {    
+    font-family: 'Times New Roman', Times, serif;
+    color: white; text-align: center;
+}
+.separation { 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 16px; 
+  letter-spacing: 7px;
+  word-spacing: 12px; 
+}
